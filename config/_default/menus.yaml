@@ -1,0 +1,41 @@
+leftnav:
+- identifier: e6bd7e04-7520-6d5e-64fe-580cae104efe
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 744b3593-b527-947e-d539-dd15a21ce815
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 2261d17c-b87c-733f-e4d7-fee8769e1e77
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 6d1c419e-c12b-5e00-9d9c-b642121a4b1d
+  name: Paper 1
+  pageRef: /pages/assignments/paper-1-after-the-fall
+  parent: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
+  weight: 50
+- identifier: 23f504d3-b156-03b4-8b77-ae970b20daf5
+  name: Paper 2
+  pageRef: /pages/assignments/paper-2-finances-role-in-society
+  parent: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
+  weight: 60
+- identifier: 5c7374fa-c6ac-0399-1be0-e8d38445b993
+  name: Rewrite of Paper 1 or 2
+  pageRef: /pages/assignments/reflect-rethink-rewrite
+  parent: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
+  weight: 70
+- identifier: 32b8aa53-4ba7-4598-4fb1-d28159083e01
+  name: Paper 3
+  pageRef: /pages/assignments/paper-3-finance-in-contemporary-culture-and-society
+  parent: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
+  weight: 80
+- identifier: f0329082-c4d9-4bba-b22e-ce0b552732d2
+  name: Exams
+  pageRef: /pages/exams
+  weight: 90
