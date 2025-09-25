@@ -6,6 +6,8 @@ description: '"The Courtyard of the Beurs in Amsterdam," 1653, by Dutch painter 
 file: /courses/sts-002-finance-and-society-spring-2016/878c0d0e759db6f2712e9da134e08be2_sts-002s16-th.jpg
 file_size: 8011
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: '"The Courtyard of the Beurs in Amsterdam," 1653, by Dutch painter Emanuel
     de Witte. This course offers students an introduction to finance through historical
