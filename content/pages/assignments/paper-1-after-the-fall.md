@@ -40,7 +40,7 @@ Primary Source Texts
 The five primary source texts that you will use in this paper are as follows.
 
 1.  Swift, Jonathan. {{% resource_link 8b7d88ea-50fb-a7b1-9cf3-79d326d36a46 "_The Bubble: A Poem (PDF)_" %}}. Printed by Benj. Tooke, 1721.
-2.  Trenchard, John, and Thomas Gordon. [_Cato's Letters or Essays on Liberty, Civil and Religious, and Other Important Subjects : Four Volumes in Two Vol. 1_](http://oll.libertyfund.org/titles/trenchard-catos-letters-vol-1-november-5-1720-to-june-17-1721-lf-ed). Edited by Ronald Hamowy. Liberty Fund, 1995, pp. 40–63. ISBN: 9780865971295.
+2.  Trenchard, John, and Thomas Gordon. {{% resource_link "2b0c7a70-3f18-4ddf-b913-62769fe16f32" "_Cato's Letters or Essays on Liberty, Civil and Religious, and Other Important Subjects : Four Volumes in Two Vol. 1_" %}}. Edited by Ronald Hamowy. Liberty Fund, 1995, pp. 40–63. ISBN: 9780865971295.
 3.  Telltruth, Timothy. {{% resource_link 92924dfb-8ec3-be3b-70d0-5fe338f6c5af "_Matter of Fact, or, The Arraignment and Tryal of the Di—rs of the S—S—Company (PDF)_" %}}. Printed for John Applebee, W. Boreham, and A. Dodd, 1720. (selections)
 4.  {{% resource_link fca2d047-68d3-eaad-19eb-593a1effde60 "\"The Secret History of the South Sea Scheme.\" (PDF)" %}} In _A Collection of Several Pieces of Mr. John Toland, Now First Publish'd from His Original Manuscripts_…, Vol. 1. Printed for J. Peele, 1726, pp. 404–47. (selections)
 5.  Anderson, Adam. _{{% resource_link c2b659ac-7555-203b-a273-2fc35ec981ba "An Historical and Chronological Deduction of the Origin of Commerce, from the Earliest Accounts to the Present Time (PDF - 1.2MB)" %}}_, vol. 1. Printed for A. Millar et al., 1764, pp. 284–97.

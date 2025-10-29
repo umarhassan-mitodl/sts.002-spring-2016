@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides details on the writing assignments for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -40,7 +38,7 @@ For all papers in this course, you are required to properly cite all evidence in
 *   Discuss, draw upon, or a debate an argument made in a secondary source.
 *   Cite a piece of factual evidence that you have drawn from another source that is not "common knowledge." (In general, you should err on the side of caution: Unless you have come across a specific piece of evidence in multiple different sources, provide a citation!)
 
-When using footnotes, you should cite your evidence by providing a superscript at the end of the sentence, after all relevant punctuation. The first time that you cite from a specific source in your paper, please provide a full citation for the source, following the guidelines below. Subsequently, you can use a short-form citation, consisting just of the author's last name, an abbreviated title, and the page number. For example: Chancellor, Devil, 38. For further information on citation practices, please see the [Chicago Manual of Style citation guide](http://www.chicagomanualofstyle.org/tools_citationguide.html).
+When using footnotes, you should cite your evidence by providing a superscript at the end of the sentence, after all relevant punctuation. The first time that you cite from a specific source in your paper, please provide a full citation for the source, following the guidelines below. Subsequently, you can use a short-form citation, consisting just of the author's last name, an abbreviated title, and the page number. For example: Chancellor, Devil, 38. For further information on citation practices, please see the {{% resource_link "81828f69-597f-41f5-b1d2-a4f4cc540096" "Chicago Manual of Style citation guide" %}}.
 
 ### Examples for Full Citations
 
